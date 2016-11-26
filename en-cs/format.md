@@ -55,7 +55,7 @@ Také lze uvést kategorie, které slovo charakterizují:
 | `[zkr.]`     | zkratka                              |
 | `[žert.]`    | žertovně, žertovné                   |
 
-Další kategorie slouží k určení oboru, němž se dané slovo používá:
+Další kategorie slouží k určení oboru, v němž se dané slovo používá:
 
 Humanitní a společenské vědy:
 
